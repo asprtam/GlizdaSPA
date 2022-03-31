@@ -1,0 +1,12 @@
+@font-face {
+	font-family: Unifraktur;
+	src: url(./media/fonts/UnifrakturMaguntiapl.ttf);
+  }
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	overflow-x: hidden;
+	width: 100vw;
+}
